@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SITE LOGIN by ALAN PAZ TRABALHO DE WEB DESIGN </title>
+    <style>
+        body {
+            background-image: url('https://totalitsolutions.com.br/blog/wp-content/uploads/2020/12/AdobeStock_308213916-1024x540.png'); /* Substitua 'caminho-para-sua-imagem.jpg' pelo caminho ou URL da sua imagem de fundo */
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: center;
+            color: #0f0;
+            font-family: "Courier New", monospace;
+        }
+        /* Resto do seu estilo permanece o mesmo */
+        h1 {
+            text-align: center;
+            color: #0f0;
+        }
+        /* ... */
+    </style>
+</head>
+<body>
+    <!-- Código HTML incorporado começa aqui -->
+    <h1>
+        <center>TRABALHO WEB DESIGN bY ALAN PAZ TELA LOGIN  </center>
+    </h1>
+    <h3>
+        CADASTRO NOME DE USUARIO 
+    </h3>
+
+    <input type="text" name="Nome" size="20" value="INSIRA SEU NOME AQUI ">
+
+    <br>
+    <h3>
+        CADASTRO CPF 
+    </h3>
+
+    <input type="text" name="name" size="20" value="CPF">
+
+    <h3>
+        SISTEMA 3 
+    </h3>
+
+    <input type="password" name="senha" maxlength="6">
+    <br>
+    <h3>ESTADO CIVIL </h3>
+
+    <input type="checkbox" name="Casado(a)" value="Casado(a)"> 
+    Casado(a)<p>
+
+    <input type="checkbox" name="Solteiro(a)" value="Solteiro(a)">
+    Solteiro(a)<p>
+
+    <input type="checkbox" name="Viuvo(a)" value="Viuvo(a)">
+    Viuvo(a)<p>
+
+    <input type="checkbox" name="Divorciado(a)" value="Divorciado(a)">
+    Divorciado(a)<p>    
+
+    <br>
+
+    <h3>SITE ?</h3>
+
+    <input type="radio" name="Você gostou do Nosso Site?"
+    Value="Sim">Sim<p>
+
+    <input type="radio" name="Você gostou do Nosso Site?"
+        Value="Não">Não<p>    
+
+    <h3>
+        ESPAÇO SISTEMA !
+    </h3>
+
+    <textarea name="Nome" Cols="60" rows="6">ESPAÇO SISTEMA 2 </textarea>
+
+    <br><br>
+
+    <center>  
+        <input type="submit" value="ENVIAR ">
+    </center>
+    <!-- Código HTML incorporado termina aqui -->
+
+</body>
+</html>
